@@ -1,5 +1,5 @@
 # QR-Code-generator-esphome
-This is a "fork" of the QR Code generator library from [nayuki](https://github.com/nayuki) that is used in my external components for esphome
+This is a "fork" of the QR Code generator library from [nayuki](https://github.com/nayuki) that is used in my external component for esphome
 
 **All the code is owned by [nayuki](https://github.com/nayuki) and is licensed under the MIT license.**
 
